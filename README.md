@@ -1,0 +1,2 @@
+Developed a dynamic web application using Django and HTMX to manage transactions, resulting in a 30% increase in data processing efficiency. Implemented features for form submission, data updating, and deletion with real-time user feedback, improving user experience by 25%.
+Optimized performance with django-debug-toolbar, leading to a 20% reduction in load times. Implemented advanced functionalities such as infinite scroll, pagination, and aggregated totals, and thoroughly tested the application using pytest and factory-boy, achieving a 95% test coverage.
